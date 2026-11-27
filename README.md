@@ -1,5 +1,7 @@
 # AI Governance Proposal: Clinical Risk-Prediction Algorithm
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A practical, end-to-end governance proposal for an AI system that is already in real-world use: a commercial clinical risk-prediction algorithm that large US health systems rely on to decide which patients receive intensive care management. It was built as a group project by a five-person team.
 
 This repository gives an overview of the project. The full report and presentation deck are not published here — see [Deliverables](#deliverables).
